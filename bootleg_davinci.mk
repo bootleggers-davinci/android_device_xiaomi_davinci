@@ -23,7 +23,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Booleggers specific values
-# BOOTLEGGERS_BUILD_TYPE := Shishufied
+BOOTLEGGERS_BUILD_TYPE := Shishufied
 TARGET_BOOTLEG_ARCH := arm64
 WITH_MICROG=false
 WITH_GAPPS=false
