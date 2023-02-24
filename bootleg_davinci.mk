@@ -32,5 +32,4 @@ TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
 
 # Maintainer Prop
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.bootleggers.maintainer=Matis
+DEVICE_MAINTAINERS=Matis
